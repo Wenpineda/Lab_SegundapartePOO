@@ -9,33 +9,32 @@ namespace Lab_Segundaparte.Negocios
 {
     class ClsPersona
     {
-        Persona per = new Persona (0,0);
-        public String calcularIMC()
+        public string calcularIMC(ClsPersona persona)
         {
-
-            double pro = per.Peso / Math.Pow(per.Altura, 2);
-
-            if (pro < 20)
+            double pro;
+            pro = (persona.Peso / Math.Pow(persona.Altura, 2));
+            
+            if (pro <= 20)
             {
-                return "Su peso es ideal";
+                return "Peso ideal";
             }
-            if (pro > 25)
+            else
             {
                 return "Tiene sobre peso";
             }
-            return "";
         }
-        public String esMayorDeEdad()
+        public String esMayorDeEdad(ClsPersona persona)
         {
-            if (per.Edad >= 18)
+            if (persona.Edad >= 18)
             {
-                return "Es Mayor de edad";
+                return "Es mayor de Edad";
             }
             else
-                return "No es mayor de edad";
+            {
+                return "Es menor de edad";
+            }
 
         }
-
     }   
         
 }
