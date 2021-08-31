@@ -5,3 +5,10 @@ C:\Users\MINEDUCYT\Desktop\POO\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundap
 C:\Users\MINEDUCYT\Desktop\POO\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\Desktop\POO\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.exe
 C:\Users\MINEDUCYT\Desktop\POO\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.pdb
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\bin\Debug\Lab_Segundaparte.exe.config
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\bin\Debug\Lab_Segundaparte.exe
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\bin\Debug\Lab_Segundaparte.pdb
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.exe
+C:\Users\cance\OneDrive\Documentos\GitHub\Lab_SegundapartePOO\Lab_Segundaparte\Lab_Segundaparte\obj\Debug\Lab_Segundaparte.pdb

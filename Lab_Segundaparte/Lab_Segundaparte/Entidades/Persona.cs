@@ -20,6 +20,11 @@ namespace Lab_Segundaparte.Entidades
         public double Peso { get => peso; set => peso = value; }
         public double Altura { get => altura; set => altura = value; }
 
+        public Persona()
+        {
+
+        }
+
         public Persona(string nombre, int edad, string sexo)
         {
             this.Nombre = nombre;
@@ -42,14 +47,9 @@ namespace Lab_Segundaparte.Entidades
             this.Altura = altura;
         }
 
-        public Persona()
-        {
-
-        }
-
         public override string ToString()
         {
-            return nombre + " " + edad + " " + sexo + " " + peso + " " + altura;
+            return " Su nombre es: " + nombre + ", su edad es: " + edad + ", su genero es " + sexo + ", su peso es: " + peso + ", su altura es: " + altura;
         }
     }
 }
